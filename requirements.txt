@@ -1,0 +1,7 @@
+# Libraries going to require
+
+Flask
+sklearn
+pandas
+numpy
+matplotlib
